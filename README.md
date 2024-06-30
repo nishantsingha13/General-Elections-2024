@@ -1,5 +1,8 @@
 # General-Elections-2024 Analysis
 
+![image](https://github.com/nishantsingha13/Traffic-injury-detection/assets/103675762/cfcf1173-f741-4ead-94f2-aaaa70811e23)
+![img](C:\Users\prisi\OneDrive\Pictures\Screenshots\Screenshot 2024-07-01 032704.png)
+
 The Lok Sabha 2024 election stands as a pivotal event in Indian democracy, offering valuable insights into voter behavior, party performance, and electoral dynamics through comprehensive data analysis. 
 Data scraped from the Election Commission of India's official website("https://results.eci.gov.in/PcResultGenJune2024/index.htm")
 
