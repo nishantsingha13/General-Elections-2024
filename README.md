@@ -1,6 +1,7 @@
 # General-Elections-2024 Analysis
 
-![image]("C:\Users\prisi\Downloads\Screenshot 2024-07-01 032704.png")
+![image](https://github.com/nishantsingha13/General-Elections-2024/assets/103675762/4439594d-4532-432e-8f23-d6a36936aee5)
+
 
 
 The Lok Sabha 2024 election stands as a pivotal event in Indian democracy, offering valuable insights into voter behavior, party performance, and electoral dynamics through comprehensive data analysis. 
