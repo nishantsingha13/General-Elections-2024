@@ -14,6 +14,9 @@ Meticulously processed to handle missing and duplicate entries, provides a rich 
 The analysis was conducted using Jupyter Notebook, providing a robust platform for in-depth exploration of electoral data
 link:https://github.com/nishantsingha13/General-Elections-2024/blob/main/Analysis.ipynb
 
+
+![image](https://github.com/nishantsingha13/General-Elections-2024/blob/main/Screenshot%202024-07-01%20034718.png?raw=true)
+
 Additionally, a user-friendly dashboard was created in Power BI to facilitate easy understanding and visualization of key insights. This dual approach uncovers compelling aspects of the election, including regional trends, campaign effectiveness, voter engagement, and the role of independent candidates in shaping electoral outcomes.
 link:https://srmist-my.sharepoint.com/:u:/g/personal/nd5905_srmist_edu_in/EcaB22k-1T9Or7QXg2w2AScBHTptSvSz6dERwBTnoV0v2g?e=Y6XWSc
 
