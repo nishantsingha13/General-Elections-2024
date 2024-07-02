@@ -4,7 +4,7 @@
 
 
 ## Project Structure:
-- **webscraping1.ipynb,webscraping2.ipynb:** script to scrape data, generate insights, and create visualizations.
+- **webscraping1.ipynb,webscraping2.ipynb:** script to scrape data.
 - **ECI 2024 LS Data.xlsx:** EXCEL file containing the scraped election results data.
 - **Analysis.ipynb:** Juypter Notebook containing the visualization of key insights derived from the data.
 - **INDIAN GENERAL ELECTIONS 2024.pbix:** visualization of Dashboard through PowerBi.
